@@ -35,6 +35,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Homepage Screen Shot][images/portfolio/websiteHomepage.png]](https://trashlieva.dev)
+![Homepage](images/portfolio/websiteHomepage.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
