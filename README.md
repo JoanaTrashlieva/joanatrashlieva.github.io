@@ -36,7 +36,7 @@
 ## Tech Stack
 
 
-
+* HTML/CSS+bootstrap/JS
 * Google domains - [www.trashlieva.dev](https://www.trashlieva.dev)
 * GitHub Pages - [joanatrashlieva.github.io](https://github.com/JoanaTrashlieva/joanatrashlieva.github.io)
 * [Nomad Force frontend template](https://themewagon.com/themes/nomad-force-free-bootstrap-5-html5-landing-page-template/)
