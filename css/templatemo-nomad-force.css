@@ -225,6 +225,10 @@ strong {
 
 .navbar .logo{
   width: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  display: block;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -288,6 +292,10 @@ strong {
   width: 30px;
   height: 35px;
   outline: none;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  display: block;
 }
 
 .navbar-toggler:focus {

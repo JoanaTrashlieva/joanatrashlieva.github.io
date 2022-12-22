@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JoanaTrashlieva/joanatrashlieva.github.io">
-    <img src="images/logoPattern.png" alt="Logo" width="80" height="80">
+    <img src="images/logoPattern.png" alt="Logo" width="100" height="80">
   </a>
 
 <h3 align="center">Personal Portfolio Website</h3>
@@ -33,7 +33,13 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Tech Stack
+
+
+===
+* Google domains - [www.trashlieva.dev](https://www.trashlieva.dev)
+* GitHub Pages - [joanatrashlieva.github.io](https://github.com/JoanaTrashlieva/joanatrashlieva.github.io)
+* [Nomad Force frontend template](https://themewagon.com/themes/nomad-force-free-bootstrap-5-html5-landing-page-template/)
 
 ![Homepage](images/portfolio/websiteHomepage.png)
 
