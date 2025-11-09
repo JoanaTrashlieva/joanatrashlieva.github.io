@@ -13,7 +13,7 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url('images/main-background.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/main-background.jpg');
   min-height: 100%;
 }
 
@@ -52,7 +52,14 @@ h2 a{
     color: #fff ;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    white-space: nowrap;
+    animation: blinkCursor 0.8s step-end infinite;
+}
+
+@keyframes blinkCursor {
+    from, to { border-color: transparent; }
+    50% { border-color: #fff; }
 }
 
 @media only screen and (max-device-width: 1600px) {
