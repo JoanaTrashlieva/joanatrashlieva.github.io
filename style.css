@@ -27,6 +27,14 @@ body, html {
   min-height: 400px;
 }
 
+.w3-hide .w3-hide-large {
+  display: none !important;
+}
+
+.w3-show {
+    display: block !important;
+}
+
 .w3-wide {letter-spacing: 10px;}
 
 .typewrite {
