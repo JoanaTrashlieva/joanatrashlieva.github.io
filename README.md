@@ -5,7 +5,8 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## Table of Contents
 
 - [About](#about)
-- [Contact](#contact)
+- [Features](#features)
+- [Technologies](#technologies)
 
 ## About
 
