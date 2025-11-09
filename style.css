@@ -29,6 +29,32 @@ body, html {
 
 .w3-wide {letter-spacing: 10px;}
 
+.typewrite {
+  text-align: left;
+  min-width: 25ch;
+}
+
+h2 {
+    width: 50%;
+    left: 26%;
+    position: relative;
+    text-decoration: none;
+}
+
+h2 a{
+    text-decoration: none;
+}
+
+.wrap {
+    border-right: 0.08em solid #fff;
+    white-space: nowrap;
+    text-decoration: none;
+    color: #fff ;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
 @media only screen and (max-device-width: 1600px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
     background-attachment: scroll;
