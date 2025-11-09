@@ -17,6 +17,10 @@ body, html {
   min-height: 100%;
 }
 
+#profile-photo {
+    border-radius: 35%;
+}
+
 .bgimg-2 {
   background-image: url("images/surf-boards.jpg");
   min-height: 400px;
